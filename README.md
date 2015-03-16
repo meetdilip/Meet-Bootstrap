@@ -8,7 +8,7 @@ Twitter Bootstrap is gaining mileage with a rapid pace. There are many Bootstrap
 
 
 
-Credits :
+<b>Credits</b> :
 
 God almighty
 
@@ -22,6 +22,6 @@ Last but not the least, to all my friends who never failed to help and inspire m
 
 
 
-Contact me :
+<b>Reach me</b> :
 
 For any queries, please contact me via www.adminforum.in
