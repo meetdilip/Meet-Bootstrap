@@ -8,15 +8,17 @@ Twitter Bootstrap is gaining mileage with a rapid pace. There are many Bootstrap
 
 Credits :
 
-# Bootstrap
+God almighty
 
-# Font Awesome 
+Twitter Bootstrap
 
-# Avatars used in the screen shot are only for display purpose and are not included in this repo. Thanks to http://www.designbolts.com/
+Font Awesome 
 
-# To all my friends who never failed to help and inspire me. 
+Avatars used in the screen shot are only for display purpose and are not included in this repo. Thanks to http://www.designbolts.com/
 
-# God almight
+Last but not the least, to all my friends who never failed to help and inspire me. 
+
+
 
 Contact me :
 
